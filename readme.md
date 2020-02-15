@@ -1,4 +1,3 @@
-**AdjustableServerWidth - [BD Download](https://betterdiscord.net/ghdl?id=2710)**  
-Make the server list smaller or larger
+### Make the server list smaller or larger - [[Download]](https://betterdiscord.net/ghdl?id=3116)
 
 ![AdjustableServerWidth](https://i.imgur.com/2KuvHaV.jpg)
